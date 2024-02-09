@@ -38,3 +38,24 @@ export const socialLinks = [
     icon: "fab fa-squarespace",
   },
 ];
+
+export const services = [
+  {
+    id: 1,
+    icon: "fas fa-wallet fa-fw",
+    title: "saving money",
+    text: "Lorem Ipsum, Lorem Ipsum lorem Ipsum lorem Ipsum",
+  },
+  {
+    id: 2,
+    icon: "fas fa-wallet fa-fw",
+    title: "Hicking",
+    text: "Lorem Ipsum, Lorem Ipsum lorem Ipsum lorem Ipsum",
+  },
+  {
+    id: 3,
+    icon: "fas fa-wallet fa-fw",
+    title: "Amazing comfort",
+    text: "Lorem Ipsum, Lorem Ipsum lorem Ipsum lorem Ipsum",
+  },
+];
