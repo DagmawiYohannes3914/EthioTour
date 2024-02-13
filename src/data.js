@@ -1,7 +1,12 @@
 import tour1 from "./images/tour-1.jpeg";
 import tour2 from "./images/tour-2.jpeg";
-import tour3 from "./images/tour-3.jpeg";
+import tour3 from "./images/ethiopiawaterfall.jpg";
 import tour4 from "./images/tour-4.jpeg";
+import tour5 from "./images/fuafuate.jpg";
+import tour6 from "./images/omo.jpg";
+import tour7 from "./images/wenchi.jpg";
+import tour8 from "./images/zebras.jpg";
+import tour9 from "./images/entoto.jpg";
 
 export const pageLinks = [
   {
@@ -99,6 +104,56 @@ export const tours = [
   {
     id: 4,
     image: tour4,
+    date: "June 11, 2023",
+    title: "Some thing some thing",
+    info: "Lorem Ipsum Lore Lore   Lore",
+    location: "somewhere",
+    duration: 6,
+    cost: 2100,
+  },
+  {
+    id: 5,
+    image: tour5,
+    date: "June 11, 2023",
+    title: "Some thing some thing",
+    info: "Lorem Ipsum Lore Lore   Lore",
+    location: "somewhere",
+    duration: 6,
+    cost: 2100,
+  },
+  {
+    id: 6,
+    image: tour6,
+    date: "June 11, 2023",
+    title: "Some thing some thing",
+    info: "Lorem Ipsum Lore Lore   Lore",
+    location: "somewhere",
+    duration: 6,
+    cost: 2100,
+  },
+  {
+    id: 7,
+    image: tour7,
+    date: "June 11, 2023",
+    title: "Some thing some thing",
+    info: "Lorem Ipsum Lore Lore   Lore",
+    location: "somewhere",
+    duration: 6,
+    cost: 2100,
+  },
+  {
+    id: 8,
+    image: tour8,
+    date: "June 11, 2023",
+    title: "Some thing some thing",
+    info: "Lorem Ipsum Lore Lore   Lore",
+    location: "somewhere",
+    duration: 6,
+    cost: 2100,
+  },
+  {
+    id: 9,
+    image: tour9,
     date: "June 11, 2023",
     title: "Some thing some thing",
     info: "Lorem Ipsum Lore Lore   Lore",
